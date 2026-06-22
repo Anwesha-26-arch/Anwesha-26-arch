@@ -77,7 +77,7 @@ https://www.linkedin.com/in/anwesha-das-gupta-088360214/
 https://github.com/Anwesha-26-arch
 
 📧 Email:
-your-email@example.com
+dasguptaanwesha076@gmail.com
 
 ---
 
