@@ -1,83 +1,84 @@
-<h1 align="center">Hi there, I'm Anwesha Das Gupta 👋</h1>
+# Hi there 👋 I'm Anwesha Das Gupta
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+🎓 MCA Graduate | 💻 Java Full Stack Developer | 🚀 Trainee Software Developer Intern at Transcendence
 
----
+## About Me
 
-### 🧠 About Me
+- 🔭 Currently working as a Trainee Software Developer Intern at Transcendence
+- 🌱 Learning Spring Boot, Hibernate, REST APIs, PostgreSQL and Enterprise Java Development
+- 💡 Passionate about Backend Development and Full Stack Development
+- 🎯 Goal: Build scalable and efficient software solutions
+- 📍 Kolkata, West Bengal, India
 
-🎯 Passionate about enhancing user experiences and solving real-world problems through software. Currently pursuing MCA from MAKAUT with a strong foundation in full-stack web development and machine learning. Currently working on a major project on Android app for Alzherimer's patients and caregivers.
- 
+## Tech Stack
 
----
+### Languages
+Java | SQL | JavaScript | HTML | CSS
 
-### 📚 Education
+### Backend
+Spring Boot | Spring MVC | Hibernate | JDBC | Servlets | JSP | REST API
 
-- 🎓 **MCA (Pursuing)** - MAKAUT | 
-- 🎓 **BCA** - MAKAUT | 
-- 🏫 **ISC (2020)** - MP Birla Foundation HS | 
-- 🏫 **ICSE (2018)** - MP Birla Foundation HS | 
+### Database
+PostgreSQL | Oracle Database | MySQL | MongoDB
 
----
+### Frontend
+React.js | Bootstrap | Tailwind CSS
 
-### 💻 Technical Skills
-
-- Programming: Java, Python
-- Web: HTML, CSS, JavaScript
-- Database: MySQL
-- Frameworks: React JS (Trained at Ardent Pvt. Ltd.)
+### Tools
+Git | GitHub | Maven | Postman | Eclipse | VS Code | Oracle SQL Developer
 
 ---
 
-### 🏆 Certifications & Training
+## Featured Projects
 
-- 🧠 *Data Science*, Mood Indigo (IIT Bombay) – 1 Month – 2023  
-- 🌐 *React JS Full Stack Development*, Ardent Pvt. Ltd. – 3 Months – 2022  
-  🔧 Project: **Hotel Management Software (MERN Stack)**
+### 📅 Event Management System
+Spring Boot REST API with:
+- CRUD Operations
+- PostgreSQL Integration
+- Swagger Documentation
+- Pagination & Search
+- Exception Handling
 
----
-
-### 🛠 Academic Projects
-
-#### BCA
-- **Minor**: 🎟 *Movie Ticket Booking System* – Java & MySQL  
-- **Major**: 🏨 *Hotel Reservation System* – HTML, CSS, JavaScript, MySQL
-
-#### MCA
-- **Minor**: 🧠 *Early Detection of Alzheimer’s Disease* – Machine Learning Algorithm
+🔗 Repository:
+https://github.com/Anwesha-26-arch/event-management-system
 
 ---
 
-### 💬 Languages Known
+### 🚀 DevMate – Developer Productivity Dashboard
 
-- English 🇬🇧
-- Bengali 🧁
-- Hindi 🇮🇳
+Features:
+- GitHub Repository Tracker
+- Task Manager
+- Pomodoro Timer
+- Daily Planner
+- Code Snippet Saver
+
+🔗 Repository:
+https://github.com/Anwesha-26-arch/devmate
 
 ---
 
-### 🎧 Hobbies
+### 🏨 Hotel Reservation System
 
-- Listening to music 🎵
+Java Web Application using:
+- JSP
+- Servlets
+- JDBC
+- MySQL
 
 ---
 
+## Connect With Me
 
-### 🔗 Let's Connect!
+💼 LinkedIn:
+https://www.linkedin.com/in/anwesha-das-gupta-088360214/
 
-<p align="center">
-  <a href="mailto:dasguptaanwesha076@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anwesha-das-gupta-088360214/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+💻 GitHub:
+https://github.com/Anwesha-26-arch
 
+📧 Email:
+your-email@example.com
+
+---
+
+⭐ Thanks for visiting my profile!
